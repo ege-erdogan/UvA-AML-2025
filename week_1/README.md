@@ -46,6 +46,8 @@ Feel free to experiment with the language to understand how it works. We're conf
 - Popular scientific libraries
 - Useful utilities
 
+Note that other ways of setting up Python and packages exist. If you are comfortable using the command line, check out the Recommended Tools section below!
+
 **Installation steps:**
 1. Download the appropriate version of Anaconda
 2. Follow the installation instructions
@@ -96,6 +98,10 @@ You can then edit and run Jupyter notebooks in VS Code, just like regular files:
 Git is the most popular version control system. You can "commit" your code as you make changes (think like checkpoints) and then can go back to previous versions even if you delete files. It also allows you to have multiple "branches" of your code with different versions, and a lot more. Check the tutorial here to get started: https://rogerdudler.github.io/git-guide/ 
 
 We highly recommend you use Git to track your changes and push your code to [GitHub](https://github.com/), so that e.g. even if you accidentally delete files you can recover your progress. 
+
+#### 3. `uv` Package Managers
+
+`uv` is a popular package manager for Python, which can be faster and more convenient to use than Conda or the default `pip`. Check the installation instructions and the guides [here](https://docs.astral.sh/uv/) to get started. 
 
 ---
 
