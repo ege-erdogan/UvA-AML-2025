@@ -1,6 +1,6 @@
 ![uva-logo](src/uva-logo.jpg)
 
-# Applied Machine Learning 2024
+# Applied Machine Learning 2025
 
 Lab assignments for the course Applied Machine Learning at the University of Amsterdam.
 
@@ -8,10 +8,10 @@ Lab assignments for the course Applied Machine Learning at the University of Ams
 
 ```bash
 # If you haven't already
-git clone https://github.com/manyids2/UVA_AML24
+git clone https://github.com/ege-erdogan/UvA-AML-2025.git
 
 # Update to latest version
-cd UVA_AML24
+cd UvA-AML-2025
 git pull
 ```
 
