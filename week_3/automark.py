@@ -21,7 +21,7 @@ class ServerError(BaseException):
 
 
 class Config:
-    host = "http://161.35.93.12:1234"
+    host = "http://206.189.163.22:1234"
     cwd = Path("./")
     test_folder = Path("local_tests")
     test_path = test_folder / "local_tests.pickle"
