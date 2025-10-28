@@ -51,7 +51,14 @@ Note that other ways of setting up Python and packages exist. If you are comfort
 **Installation steps:**
 1. Download the appropriate version of Anaconda
 2. Follow the installation instructions
-3. **(Linux/macOS only)** Add `anaconda/bin` to your `PATH`:
+3. Create and activate the environment:
+
+```bash
+conda env create -f environment.yml
+conda activate aml2025
+```
+
+4. **(Linux/macOS only)** Add `anaconda/bin` to your `PATH`:
 
 ```bash
 echo 'export PATH="~/anaconda3/bin:$PATH"' >> ~/.bashrc
