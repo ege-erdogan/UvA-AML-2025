@@ -106,7 +106,7 @@ Git is the most popular version control system. You can "commit" your code as yo
 
 We highly recommend you use Git to track your changes and push your code to [GitHub](https://github.com/), so that e.g. even if you accidentally delete files you can recover your progress. 
 
-#### 3. `uv` Package Managers
+#### 3. `uv` Package Manager
 
 `uv` is a popular package manager for Python, which can be faster and more convenient to use than Conda or the default `pip`. Check the installation instructions and the guides [here](https://docs.astral.sh/uv/) to get started. 
 
